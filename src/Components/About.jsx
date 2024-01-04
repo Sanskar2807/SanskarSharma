@@ -24,19 +24,26 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Data Scientist, Specialized in Machine Learning, Deep Learning and NLP. I have developed impressive projects in my Masters leveraging ML, DL, Python, Data Analysis & MySQL.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "PowerBI",
+  "Natural Language Processing",
+  "Python",
+  "Tensorflow",
+  "Scikit Learn",
+  "Keras",
+  "OpenCV",
+  "Computer Vision",
+  "Deep Learning",
+  "Deep Neural Networks",
+  "Machine Learning",
+  "Data Analysis",
 ];
 
 /**
@@ -45,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Masters student in AI and ML at BHU with a strong passion for the field. Skilled in various machine learning techniques, deep learning algorithms, and data analysis. Seeking opportunities to apply theoretical knowledge in practical settings to solve real-world problems. Experienced in app development and web development, with a keen interest in expanding skills in these areas. Dedicated to continuous learning and keeping up with the latest advancements in AI, ML, and software development.";
 
 const About = () => {
   return (
